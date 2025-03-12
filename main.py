@@ -7,7 +7,7 @@ import pytz
 import datetime
 
 # Токен вашого Telegram бота
-TELEGRAM_TOKEN = 'ТВОЙ ТЕЛЕГРАМ ТОКЕН'
+TELEGRAM_TOKEN = 'ТВОЙ ТЕЛЕГРАМ ТОКЕН БОТА'
 
 # Логування для бота
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
